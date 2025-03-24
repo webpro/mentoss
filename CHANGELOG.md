@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.1](https://github.com/humanwhocodes/mentoss/compare/mentoss-v0.9.0...mentoss-v0.9.1) (2025-03-24)
+
+
+### Bug Fixes
+
+* ReadableStream in request body should require preflight ([08c5521](https://github.com/humanwhocodes/mentoss/commit/08c552157d144f8417ead5186be8f81131c4b640))
+
 ## [0.9.0](https://github.com/humanwhocodes/mentoss/compare/mentoss-v0.8.0...mentoss-v0.9.0) (2025-03-21)
 
 
